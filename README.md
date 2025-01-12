@@ -24,5 +24,5 @@ Las modificaciones deben incluir al menos un commit por cada mejora realizada.
 El commit debe estar documentado con mensajes claros.
 ## Entrega:
 En la entrega en la plataforma:  Pega el enlace para que me dirija directamente al FORK, (no les pedire que en el FORK añadan su nombre ya que el repositorio es publico y seguramente la mayoria tendrá un perfil
-con un Pseudonimo, por esta razón prefiero que expongan 
+con un Pseudonimo, por esta razón prefiero que en la entrega añadan el enclace y así evaluar.
 ## Nota: No será necesario hacer pull request.
