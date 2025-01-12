@@ -7,7 +7,7 @@ Este repositorio contiene una clase base para gestionar actividades en un gimnas
 ## Instrucciones
 1. Realiza un fork de este repositorio.
 2. Añade tus mejoras al proyecto.Las mejoras a valorar son añadir nuevos métodos que aporte un extra a la clase principal.
-3. Documenta los cambios en un archivo `README.md` en tu repositorio forkeado.
+3. Crear un archivo `README.md` en tu repositorio forkeado. (ver el punto 5, en criterios de evaluación)
 ## Criterios de Evaluación 
 1. Tu cuenta de GitHub: Tu perfil debe estar configurado
 2. Realizar correctamente el fork del repositorio.
